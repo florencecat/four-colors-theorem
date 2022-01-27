@@ -352,13 +352,13 @@ int main()
 			break;
 		case 5:
 			system("cls");
-			printf("ÏÐÎÃÐÀÌÌÀ ÄËß ÐÀÑÊÐÀØÈÂÀÍÈß ÊÀÐÒÛ ÌÈÍÈÌÀËÜÍÛÌ ÊÎËÈ×ÅÑÒÂÎÌ ÖÂÅÒÎÂ\n\nÄàííàÿ ïðîãðàììà çàêðàøèâàåò êàðòó (íàõîäÿùóþñÿ â ïàïêå countries) ìèíèìàëüíûì êîëè÷åñòâîì öâåòîâ.\nÄëÿ òîãî, ÷òîáû çàêðàñèòü êàðòó, íóæíî âûáðàòü ïåðâûé ïóíêò ìåíþ.\nÂòîðîé ïóíêò ìåíþ íóæåí äëÿ òîãî, ÷òîáû ïîêàçàòü çàäàííûé íà òåêóùèé ìîìåíò ãðàô.\nÑëåäóþùèå äâà ïóíêòà íóæíû äëÿ ñîçäàíèÿ êàðòû è çàäàíèÿ íîâîãî ãðàôà ñîîòâåòñòâåííî.\n\n");
+			printf("PROGRAM FOR COLORING A MAP WITH A MINIMUM NUMBER OF COLORS\n\nThis program paints a map (located in the countries folder) with a minimum number of colors.\nIn order to paint a map, you need to select the first menu item.\nThe second menu item is needed in order to show the one specified on the current graph.\nThe following two items are needed to create a map and set a new graph, respectively.\n\n");
 			system("pause");
 
 			break;
 		case 6:
 			system("cls");
-			printf("Ðàçðàáîò÷èê ïðîãðàììû - ñòóäåíò ãðóïïû 1-42õõ Èâàíîâñêîãî ãîñóäàðñòâåííîãî ýíåðãåòè÷åñêîãî óíèâåðñèòåòà Òîíêîâ Êèðèëë\nÒåêóùàÿ âåðñèÿ ïðîãðàììû - 1.0\n\n");
+			printf("The developer of the program is a student of group 1-42xx of the Ivanovo State Power Engineering University Kirill Tonkov\nThe current version of the program is 1.0\n\n");
 			system("pause");
 
 			break;
